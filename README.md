@@ -99,7 +99,7 @@ This lab focuses on **advanced reverse engineering** of an Android application u
 |-----|-------|
 | `firebase_database_url` | https://firestorm-9d3db-default-rtdb.firebaseio.com |
 | `firebase_email` | TK757567@pwsec.xyz |
-| `google_api_key` | AIzaSyAXsK0qxs4RuLSA9C8IPSWd0eQ67HVHuJY |
+| `
 
 ---
 
